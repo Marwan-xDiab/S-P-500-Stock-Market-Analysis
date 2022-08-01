@@ -10,9 +10,9 @@
 * [Dashboards](#Dashboard)
 * [Conclusion](#Conclusion)
 
-[S&P 500 Stocks (Web Scraping) Link] (https://www.kaggle.com/code/marwandiab/s-p-500-stocks-web-scraping)
-[Dashboard Link ] (https://www.novypro.com/project/--sp500-dashboard-1)
-[Report Link] (https://www.novypro.com/project/--tesla-report)
+* [Dashboard Link ](https://www.novypro.com/project/--sp500-dashboard-1) <br />
+* [S&P 500 Stocks (Web Scraping) Link](https://www.kaggle.com/code/marwandiab/s-p-500-stocks-web-scraping) <br />
+* [Report Link](https://www.novypro.com/project/--tesla-report) <br />
 
 ## General Info
 This project aims to apply the theories, methodologies and strategies tackled in the training to successfully implement a data warehouse to support business intelligence queries
