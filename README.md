@@ -10,6 +10,10 @@
 * [Dashboards](#Dashboard)
 * [Conclusion](#Conclusion)
 
+[S&P 500 Stocks (Web Scraping) Link] (https://www.kaggle.com/code/marwandiab/s-p-500-stocks-web-scraping)
+[Dashboard Link ] (https://www.novypro.com/project/--sp500-dashboard-1)
+[Report Link] (https://www.novypro.com/project/--tesla-report)
+
 ## General Info
 This project aims to apply the theories, methodologies and strategies tackled in the training to successfully implement a data warehouse to support business intelligence queries
 
@@ -32,7 +36,7 @@ About Project Info
 The S&P 500 stock market index is maintained by S&P Dow Jones Indices. It comprises 503 common stocks which are issued by 500 large-cap companies traded on American stock exchanges (including the 30 companies that compose the Dow Jones Industrial Average). The index includes about 80 percent of the American equity market by capitalization. It is weighted by free-float market capitalization, so more valuable companies account for relatively more weight in the index. The index constituents and the constituent weights are updated regularly using rules published by S&P Dow Jones Indices.<br />
 > * <ins>ETL</ins>: <br />
 web scraping using beautiful soup and request library with python, file type (CSV) <br />
-* [Yahoo finance]([https://finance.yahoo.com/quote/AAPL/?p=AAPL](https://www.kaggle.com/code/marwandiab/s-p-500-stocks-web-scraping))
+* [Yahoo finance](https://www.kaggle.com/code/marwandiab/s-p-500-stocks-web-scraping)
 > * <ins>Date of creation</ins>: 1 July 2018 <br />
 > * <ins>Descriptions</ins>: <br />
 Yahoo Finance used to have their own official API, but this was decommissioned on May 15th 2017, following wide-spread misuse of data.
@@ -40,7 +44,7 @@ These days a range of unofficial APIs and libraries exist to access the same dat
 Note you might know of yfinance under it’s old name- fix-yahoo-finance, since it was re-named on May 26th 2019 at the same time that it went over a large overhaul to fix some usability issues.<br />
 > * <ins>ETL</ins>: <br />
 Extract data using web scraping then imported, integrated and transferred it using SSMS, then create the model. 
-* [Kaggle]([https://www.kaggle.com/camnugent/sandp500](https://www.kaggle.com/code/marwandiab/s-p-500-stocks-web-scraping))
+* [Kaggle](https://www.kaggle.com/code/marwandiab/s-p-500-stocks-web-scraping)
 > * <ins>Date of creation</ins>: 1 June 2018 <br />
 > * <ins>Descriptions</ins>: <br />
 The folder individual stocks 5yr contains files of data for individual stocks, labelled by their stock ticker name. The allstocks5yr.csv contains the same data, presented in a merged .csv file. Depending on the intended use (graphing, modelling, etc.) the user may prefer one of these given formats..<br />
